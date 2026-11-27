@@ -1,0 +1,8 @@
+{
+  "name": "PrismForge 3D",
+  "description": "Blender-style browser 3D rendering and modeling studio supporting Blender, Prisma3D, GLB, GLTF, FBX, OBJ, STL, PLY, Collada, 3DS, and PBR studio shading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
